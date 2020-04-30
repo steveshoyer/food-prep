@@ -1,0 +1,53 @@
+{
+	"cheese": {
+		"quantity": 3,
+		"processes": ["gets-sliced", "gets-shredded"],
+		"reorder": 4
+		},
+	"bun": {
+		"quantity": 2,
+		"processes": ["gets-sliced"],
+		"reorder": 6
+		},
+	"sauce": {
+		"quantity": 2,
+		"processes": ["gets-mixed"],
+		"reorder": 2
+		},
+	"lettuce": {
+		"quantity": 2,
+		"processes": ["gets-prepped"],
+		"reorder": 3
+		},
+	"tomato": {
+		"quantity": 1,
+		"processes": ["gets-sliced", "gets-prepped"],
+		"reorder": 2
+		},
+	"dough": {
+		"quantity": 1,
+		"processes": ["gets-prepped"],
+		"reorder": 2
+		},
+	"ground-beef": {
+		"quantity": 2,
+		"processes": ["gets-prepped"],
+		"reorder": 2
+		},
+	"onion": {
+		"quantity": 2,
+		"processes": ["gets-sliced"],
+		"reorder": 2
+		},
+	"beans": {
+		"quantity": 1,
+		"processes": ["gets-prepped"],
+		"reorder": 2
+		},
+	"carrot": {
+		"quantity": 1,
+		"processes": ["gets-sliced"],
+		"reorder": 1
+		}
+}
+
